@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "2gua.rainbow-brackets",
+        "blanu.vscode-styled-jsx",
+        "csstools.postcss",
+        "dbaeumer.vscode-eslint",
+        "dkundel.vscode-new-file",
+        "dotiful.dotfiles-syntax-highlighting",
+        "dsznajder.es7-react-js-snippets",
+        "esbenp.prettier-vscode",
+        "oderwat.indent-rainbow",
+        "rbbit.typescript-hero",
+        "ricard.postcss",
+        "stylelint.vscode-stylelint",
+    ]
+}
