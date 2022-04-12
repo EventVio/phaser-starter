@@ -5,4 +5,11 @@ updates:
     schedule:
       interval: "weekly"
       day: 'monday'
-      time: "05:57"
+      time: "12:57"
+    ignore:
+      - dependency-name: "react"
+        versions: ["18.x"]
+      - dependency-name: "react-dom"
+        versions: ["18.x"]
+      - dependency-name: "@types/react"
+        versions: ["18.x"]
